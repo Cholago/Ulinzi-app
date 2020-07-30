@@ -10,6 +10,6 @@ Just in case of a problem you just shake the phone and it will send an sms to yo
     about: Android app and Fullstack web developer
 #### Screenshots
 *Register Activity*
-![Register Activity](/Screenshots/Screenshot_1596103703.png 250x)
+![Register Activity](/Screenshots/Screenshot_1596103703.png)
 *Main Activity*
 ![Main Activity](/Screenshots/Screenshot_1596103851.png)
