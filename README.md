@@ -9,8 +9,7 @@ Just in case of a problem you just shake the phone and it will send an sms to yo
     name: Wilson Chola
     about: Android app and Fullstack web developer
 #### Screenshots
-![Main Screenshot](/Screenshots/Screenshot_1596103703.png)
-Format: ![Register activity](url)
-
-![GitHub Logo](/Screenshots/Screenshot_1596103851.png)
-Format: ![Main activity](url)
+*Register Activity*
+![Register Activity](/Screenshots/Screenshot_1596103703.png)
+*Main Activity*
+![Main Activity](/Screenshots/Screenshot_1596103851.png)
